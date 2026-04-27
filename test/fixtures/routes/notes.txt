@@ -1,0 +1,1 @@
+This file should be ignored by autoRoutes because it is not a .js or .ts file.
